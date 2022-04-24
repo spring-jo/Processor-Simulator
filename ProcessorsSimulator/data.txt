@@ -1,0 +1,13 @@
+2 12
+3 10 high
+4 5  low
+6 7  high
+8 3  low
+9 7 high
+10 7  low
+11 10 low
+12 5  low
+15 7  high
+17 10 high
+19 5  low
+22 7  high
